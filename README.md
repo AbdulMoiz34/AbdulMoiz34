@@ -3,13 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **chat app**
-
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning  **Python** , **Django**, **DevOps**, and **Cloud Engineering**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-moiz34.netlify.app/](https://portfolio-moiz34.netlify.app/)
 
-- 💬 Ask me about **react, typescript**
+- 💬 Ask me about **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS**, **ExpressJS**, **MongoDB**, **Firebase**, and **Python**.
 
 - 📫 How to reach me **moiz05366@gmail.com**
 
