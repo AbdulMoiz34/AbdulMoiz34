@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Moiz</h1>
-<h3 align="center">A passionate frontend developer from Pakistan.</h3>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<h3 align="center">I’m a full-stack developer driven by a passion for creating scalable, cutting-edge applications. My First Priority is User Experience.</h3>
 
 - 🌱 I’m currently learning  **Python** , **Django**, **DevOps**, and **Cloud Engineering**
 
