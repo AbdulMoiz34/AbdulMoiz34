@@ -11,7 +11,7 @@
 
 ---
 
-<h3 align="center">Technical Arsenal</h3>
+<h3 align="center">Technical Skills</h3>
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="50" height="50"/></a>
