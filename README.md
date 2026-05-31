@@ -1,12 +1,13 @@
-<h1 align="center">Hi 👋, I'm Abdul Moiz</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=30&duration=3500&pause=500&color=38BDF8&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;MERN+Stack+Developer;Problem+Solver" alt="Typing Animation" />
+</h3>
 
 <p align="center">
   I am a Full Stack Developer with over 1.5 years of experience designing, developing, and deploying scalable web applications[cite: 1]. With deep expertise across the MERN stack and Next.js, I specialize in writing clean, optimized code and translating complex requirements into production-ready software[cite: 1]. Currently, I am pursuing my Bachelor of Computer Science while actively partnering with clients globally to build high-performance web solutions[cite: 1].
 </p>
 
 <p align="center">
-  <a href="https://moiz34.vercel.app/" target="_blank"><strong>🔗 Explore My Portfolio & Projects</strong></a>
+  <a href="https://moiz34.vercel.app/" target="_blank"><strong>Portfolio</strong></a>
 </p>
 
 ---
@@ -43,4 +44,12 @@
  <a href="https://wa.me/923122361229" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" height="25" />
   </a>
+</p>
+
+---
+
+<h3 align="center">GitHub Analytics</h3>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulmoiz34&" alt="Abdul Moiz's GitHub Streak" />
 </p>
