@@ -3,7 +3,7 @@
 </h3>
 
 <p align="center">
-  I am a Full Stack Developer with over 1.5 years of experience designing, developing, and deploying scalable web applications[cite: 1]. With deep expertise across the MERN stack and Next.js, I specialize in writing clean, optimized code and translating complex requirements into production-ready software[cite: 1]. Currently, I am pursuing my Bachelor of Computer Science while actively partnering with clients globally to build high-performance web solutions[cite: 1].
+ Hi, I'm a Full Stack Developer with 1.5+ years of experience in building modern web applications. I've developed 20+ projects using the MERN Stack and other web technologies. I love turning ideas into real products, solving challenges, and creating applications that are simple, fast, and useful. My goal is to build solutions that not only work well but also help businesses and users achieve their goals.
 </p>
 
 <p align="center">
